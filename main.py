@@ -3,7 +3,7 @@ from os import system, name
 from time import sleep
 
 
-colors = ["A","B","C","D"]
+colors = ("A","B","C","D")
 pattern = []
 user_input = []
 score = 0
